@@ -1,0 +1,7 @@
+.container {
+    width: 70%;    /* This will cause problem on mobile (bug) */
+    margin: auto;
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 10px;
+}
